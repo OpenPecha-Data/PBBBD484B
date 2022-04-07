@@ -1,0 +1,36 @@
+id: PBBBD484B
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA30020
+  instance_id: http://purl.bdrc.io/resource/IE30020
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཆོས་མངོན་པ་ཀུན་ལས་བཏུས་ཀྱི་ཊིཀ་རྣམ་བཤད་ཉི་མའི་འོད་ཟེར།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P385
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    6bc8bcbb27af45a993f69508f82a6f37:
+      title: པོད ༢་ཆོས་མངོན་པ་ཀུན་ལས་བཏུས་ཀྱི་ཊིཀ་རྣམ་བཤད་ཉི་མའི་འོད་ཟེར
+      volume_number: 2
+      base_file: UT30020_5752_0000.txt
+      reference: http://purl.bdrc.io/resource/VL15B3D6626E0986B7
+      image_group: '5752'
+      quality: Low
+    c90a239c7d3f4bef854fdfb5a5f65f71:
+      title: པོད ༡་ཆོས་མངོན་པ་ཀུན་ལས་བཏུས་ཀྱི་ཊིཀ་རྣམ་བཤད་ཉི་མའི་འོད་ཟེར
+      volume_number: 1
+      base_file: UT30020_5751_0000.txt
+      reference: http://purl.bdrc.io/resource/VLCAF9514D473E40B9
+      image_group: '5751'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W30020
+  - http://purl.bdrc.io/resource/MW30020
+  ocr_software: Namsel
+created_at: '2021-12-22T11:17:48.468935'
+last_modified_at: '2021-12-22T11:17:48.468942'
